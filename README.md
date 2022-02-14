@@ -1,5 +1,7 @@
 # input-echoer
 
+A input for writing arbitrary text, written text will be printed out to screen.
+
 ## Project setup
 ```
 npm install
